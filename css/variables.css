@@ -1,0 +1,62 @@
+
+:root {
+  /* Background */
+  --bg-primary: #101014;
+  --bg-secondary: #17171d;
+  --bg-tertiary: #202027;
+  --bg-elevated: #282831;
+
+  /* Brand */
+  --accent: #c86bfa;
+  --accent-hover: #d895ff;
+  --accent-soft: rgba(200, 107, 250, 0.14);
+  --accent-secondary: #ff6fae;
+
+  /* Text */
+  --text-primary: #ffffff;
+  --text-secondary: #b5b5c0;
+  --text-muted: #777784;
+
+  /* Status */
+  --success: #52d69a;
+  --warning: #ffcc66;
+  --danger: #ff657a;
+
+  /* Borders */
+  --border-color: rgba(255, 255, 255, 0.08);
+
+  /* Typography */
+  --font-main: Inter, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+  --radius-round: 999px;
+
+  /* Effects */
+  --shadow-card: 0 8px 24px rgba(0, 0, 0, 0.2);
+  --shadow-player: 0 -8px 32px rgba(0, 0, 0, 0.25);
+
+  /* Layout */
+  --sidebar-width: 240px;
+  --player-height: 84px;
+  --topbar-height: 68px;
+  --mobile-nav-height: 64px;
+
+  /* Animation */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+}
