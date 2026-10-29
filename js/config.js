@@ -21,6 +21,6 @@ export const APP_CONFIG = Object.freeze({
 export const API_CONFIG = Object.freeze({
   // Alamat backend saat pengembangan lokal.
   // Ubah sesuai alamat server yang kamu gunakan.
-  baseURL: "https://soniva-app.bonto.run/api",
+  baseURL: "http://localhost:3000/api",
   timeout: 15000
 });
